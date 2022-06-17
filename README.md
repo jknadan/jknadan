@@ -4,7 +4,10 @@
 
 ![jknadan's github stats](https://github-readme-stats.vercel.app/api?username=jknadan&show_icons=true)
 
-
+💻Tech Stack💻</br>
+<img alt="NodeJS" src="https://img.shields.io/badge/Node.js-339933.svg?&style=for-the-badge&logo=Node.js&logoColor=black"/>
+<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black"/>
+<img alt="Android" src="https://img.shields.io/badge/Android-3DDC84.svg?&style=for-the-badge&logo=Android&logoColor=white"/>
 <!--
 **jknadan/jknadan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
