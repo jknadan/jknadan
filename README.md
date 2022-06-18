@@ -2,6 +2,8 @@
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=jknadan's%20GitHub&fontSize=50)
 
+#### 풀스택을 지향하는 백엔드 개발자 조준기의 깃허브입니다. 
+
 ![jknadan's github stats](https://github-readme-stats.vercel.app/api?username=jknadan&show_icons=true)
 
 💻Tech Stack💻</br>
